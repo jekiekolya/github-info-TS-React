@@ -1,5 +1,6 @@
 {
   "name": "ts-course-proj-2",
+  "homepage": "https://example.com/ts-course-proj-2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,7 +10,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "tsc && react-scripts build",
+    "build": "react-scripts build",
     "component": "generate-react component"
   },
   "eslintConfig": {
