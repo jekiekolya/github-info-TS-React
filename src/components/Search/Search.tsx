@@ -1,5 +1,3 @@
-import { useRef } from "react";
-
 // Icons
 import { ReactComponent as SearchIcon } from "assets/icon-search.svg";
 
